@@ -1,6 +1,8 @@
 console.log('JobTask1');
 // отключаем рекламу
 document.querySelector('.adv').style.display = 'none';
+document.querySelector('body').style.backgroundImage = "url('./image/you-dont-know-js.jpg')";
+console.dir( document.querySelector('body'));
 
 let books = document.querySelectorAll('.books'),
     book = document.querySelectorAll('.book'),
