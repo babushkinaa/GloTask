@@ -52,8 +52,9 @@ bookGlava[5].textContent = 'Глава 4: Поднятие переменных 
 bookGlava[6].textContent = 'Глава 5: Замыкание области видимости';
 bookGlava[7].textContent = 'Приложение A: Динамическая область видимости';
 bookGlava[8].textContent = 'Приложение B: Полифиллинг блочной области видимости';
-bookGlava[9].textContent = 'Приложение D: Благодарности!';
-bookGlava[10].textContent = 'Приложение C: Лексический this';
+bookGlava[9].textContent = 'Приложение C: Лексический this';
+bookGlava[10].textContent = 'Приложение D: Благодарности!';
+
 
 bookGlava5 = book[5].querySelectorAll('li');
 bookGlava5[0].textContent = 'Введение';
